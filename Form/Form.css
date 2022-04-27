@@ -1,0 +1,41 @@
+ 
+.form {
+    background: #522352;
+    border-radius: 25px;  
+    border: 2px solid #bdbdbd;
+    max-width: 550px;
+    height: 90%;
+    margin-top: 15px;
+} 
+
+div.image2 {
+    padding: 30px;
+    text-align: center;
+  }
+
+.asterisk {
+    color: #fd4444;
+    font-size: x-small;
+ }
+  
+.form-title {
+    padding-top: 10px;
+}
+
+
+#emailHelp {
+    font-size: x-small;
+    font-style: italic;
+}
+  
+#passwordHelpBlock {
+    font-size: x-small;
+    font-style: italic;
+}
+   
+
+.gradient-custom {
+    /* background: linear-gradient(to right, #a78bb4, #743669, #522352, #050204); */
+    background: linear-gradient(to right, #d0bdd8, #8b6685, #583f58, #222222);
+    font-family: sans-serif;
+}
